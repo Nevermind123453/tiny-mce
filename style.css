@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(52, 65, 65);
+}
+form{
+    width:600px;
+    margin:0 auto;
+}
+h1{
+    color: white;
+    width:600px;
+    margin:0 auto;
+    font-family: sans-serif;
+}
+p{
+    text-align: center;
+}
+.out{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
